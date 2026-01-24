@@ -117,9 +117,3 @@ The Personal Finance Portal application uses the following technologies:
 - JavaScript: for visualizations and interactivity on the dashboard
 - Chart.js: a JavaScript library for visualizing data in charts
 - Bootstrap: a popular CSS framework for building responsive websites
-
-## Contributors
-The Personal Finance Portal application is maintained by [[Benji918](https://github.com/Benji918)]. If you'd like to contribute to the project, please feel free to submit a pull request or open an issue.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
